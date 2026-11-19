@@ -1,6 +1,6 @@
 # Unsung Helper couch configurator example
 
-This repository contains a representative export of the couch configurator example of [Unsung Helper][https://www.unsunghelper.com].
+This repository contains a representative export of the couch configurator example of [Unsung Helper](https://www.unsunghelper.com).
 
 This is a minimal React app that shows how to embed and drive the WebAssembly
 module produced when you export a product from the Unsung editor.
